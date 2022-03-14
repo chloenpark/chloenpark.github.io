@@ -368,7 +368,7 @@
 					nav: false,
 					loop:true,
 					autoWidth:true,
-					items:4,
+					items:3,
 					dots: false,
 					responsive : {
 						0 : {
@@ -377,7 +377,7 @@
 						},
 						700 : {
 							autoWidth : true,
-							items: 4
+							items: 3
 						}
 					}
 				});
