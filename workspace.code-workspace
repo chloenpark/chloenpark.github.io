@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../mainpack"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "mainpack real"
+	}
+}
